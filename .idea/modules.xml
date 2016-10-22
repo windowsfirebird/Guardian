@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Araneus.iml" filepath="$PROJECT_DIR$/Araneus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guardian.iml" filepath="$PROJECT_DIR$/.idea/modules/guardian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guardian_main.iml" filepath="$PROJECT_DIR$/.idea/modules/guardian_main.iml" group="guardian" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/guardian_test.iml" filepath="$PROJECT_DIR$/.idea/modules/guardian_test.iml" group="guardian" />
     </modules>
   </component>
 </project>
